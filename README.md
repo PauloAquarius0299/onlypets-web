@@ -1,3 +1,18 @@
+# OnlyPets
+![Captura de Tela (253)](https://github.com/PauloAquarius0299/onlypets-web/assets/114706743/e1606df0-bd12-4942-9e63-5a48189ffb50)
+Landing page estlizada com tailwind css para website onlypets
+### Ferramentas 
+* Nextjs 14
+* Tailwindcss
+* TypeScript
+* Clerk
+* Shadcn-ui
+* Magicui
+# Link
+```
+https://onlypets-web.vercel.app/
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
